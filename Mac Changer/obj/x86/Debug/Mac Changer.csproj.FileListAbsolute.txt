@@ -1,0 +1,9 @@
+C:\Users\Wasif\documents\visual studio 2010\Projects\Mac Changer\Mac Changer\bin\Debug\Mac Changer.exe
+C:\Users\Wasif\documents\visual studio 2010\Projects\Mac Changer\Mac Changer\bin\Debug\Mac Changer.pdb
+C:\Users\Wasif\documents\visual studio 2010\Projects\Mac Changer\Mac Changer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Wasif\documents\visual studio 2010\Projects\Mac Changer\Mac Changer\obj\x86\Debug\Mac_Changer.Form1.resources
+C:\Users\Wasif\documents\visual studio 2010\Projects\Mac Changer\Mac Changer\obj\x86\Debug\Mac_Changer.Properties.Resources.resources
+C:\Users\Wasif\documents\visual studio 2010\Projects\Mac Changer\Mac Changer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Wasif\documents\visual studio 2010\Projects\Mac Changer\Mac Changer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Wasif\documents\visual studio 2010\Projects\Mac Changer\Mac Changer\obj\x86\Debug\Mac Changer.exe
+C:\Users\Wasif\documents\visual studio 2010\Projects\Mac Changer\Mac Changer\obj\x86\Debug\Mac Changer.pdb
